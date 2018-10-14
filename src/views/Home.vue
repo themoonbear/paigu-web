@@ -16,8 +16,8 @@
         </div>
     </div>
     <div class="footer">
-        <div>Copyright © 2018 MoonBear Studio</div>
-        <div><iframe frameborder="0" scrolling="0" width="100px" height="20px" src="https://ghbtns.com/github-btn.html?user=themoonbear&repo=paigu&type=star&count=true"></iframe></div>
+        <div>Copyright © 2018 Moonbear Studio</div>
+        <div><iframe frameborder="0" scrolling="0" width="100px" height="20px" src="https://ghbtns.com/github-btn.html?user=themoonbear&repo=paigu-web&type=star&count=true"></iframe></div>
     </div>
   </div>
 </template>

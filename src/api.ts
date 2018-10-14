@@ -3,7 +3,7 @@ import {B64Encode} from "@/utils/crypto";
 import engines from "@/utils/engines";
 import ParseHTML from "@/parses";
 
-const API_URL = "/api/s?c="
+const API_URL = "https://api.moonbear.cn/proxy/"
 
 function packResult(code: any, msg: any, e?: string) {
   return {code: code, msg: msg, title: e}

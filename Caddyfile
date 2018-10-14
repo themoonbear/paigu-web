@@ -1,9 +1,0 @@
-paigu.moonbear.cn
-tls contact@moonbear.cn
-gzip
-log stdout
-errors stdout
-root /www
-proxy /api http://paigu_server:1323 {
-    transparent
-}
