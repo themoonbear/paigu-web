@@ -56,12 +56,11 @@ export default class Search extends Vue {
     .small .logo{
         float: left;
         margin-right: 20px;
+        transform:scale(0.5);
+        transform-origin:top left;               
     }
     .small .keyword {
         text-align: left;
-    }
-    .small img {
-        zoom: 50%
     }
     input {
         min-width: 300px;

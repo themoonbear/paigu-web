@@ -47,6 +47,7 @@ export default class Home extends Vue {
   .content {
     margin: 10px auto;
     width: 95%;
+    clear: both;
   }
   .result {
       float: left;
