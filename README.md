@@ -4,6 +4,8 @@
 
 PaiGu 服务用于对百度和谷歌搜索结果进行比较，也可以自定义搜索引擎。
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0736e710-4d8a-47fc-a07c-b12c42f503dc/deploy-status)](https://app.netlify.com/sites/determined-brahmagupta-ed077d/deploys)
+
 ## 比较内容
 
 + 搜索引擎响应速度
